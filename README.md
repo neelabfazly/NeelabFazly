@@ -1,4 +1,5 @@
 Hi & Welcome! 👋
+
 Software testing proves the existence of bugs not their absence.
 
 This is Neelab Fazly, a SDET based in Washington DC. Uniquely capable of working at multiple levels of the organization and unafraid of getting hands dirty with software automation. Passionate to learn, automate, and solving problems with technology.
